@@ -223,7 +223,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c57dec6917facd4c8592616aa77893b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CodigoAnimal: G
+  CodigoAnimal: PP
   CantidadDias: 3
 --- !u!4 &1044537824
 Transform:
